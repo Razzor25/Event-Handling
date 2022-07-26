@@ -1,0 +1,12 @@
+.events{
+    display: block;
+    margin: 10px auto ;
+    width: 480px;
+    /* background-color: aliceblue; */
+    background-color:rgba(129, 129, 129, 0.2);
+    padding: 20px;
+    
+    /* border:  solid 4px rgba(250, 1, 130,0.25); */
+    border:  solid 4px rgb(32,30,30);
+    border-radius: 20px;
+}

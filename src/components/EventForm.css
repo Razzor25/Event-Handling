@@ -1,0 +1,7 @@
+.event-form label, .event-form input{
+    display:block;
+    text-align:start;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
